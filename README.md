@@ -30,6 +30,9 @@ AtliQ Hardware, a rapidly expanding global leader in computer hardware and acces
    - Executive View
    - Information Page
    - Support Page
+4.	✨ Narrative Insights Overview & Breakdown
+
+---
 
 ## 🚀 **Project Kickoff and Preparation**
 ### **Objective**
@@ -64,6 +67,10 @@ The project started with a detailed planning session:
 **DAX Measures:**
 
 ![Alt text](https://github.com/SachinSavkare/Power-BI-Business-Insights-360/blob/main/DAX%20Measures.JPG)
+
+**Narrative Measures:**
+
+![Alt text](https://github.com/SachinSavkare/Power-BI-Business-Insights-360/blob/main/Narrative%20Measures.JPG)
 
 ---
 
@@ -140,6 +147,18 @@ The project started with a detailed planning session:
 
 ---
 
+### **Insight View**
+💡 **Purpose**: The Insight View serves as a centralized hub for exploring data-driven observations and metrics derived from all dashboard views. It emphasizes the importance of structured analytics in supporting strategic objectives across diverse business domains.
+
+🔹 **What It Offers**:
+- **Cross-View Observations**: Aggregated insights to provide a comprehensive understanding of data trends spanning Finance, Sales, Marketing, Supply Chain, and Executive perspectives.
+- **Key Metrics Highlighted**: Facilitates easy access to high-level summaries and key performance indicators that underpin organizational strategies.
+- **Visual Clarity**: Offers a snapshot of the project's analytical contributions through dynamic visuals, fostering engagement and understanding.
+
+🔗 ![Alt text](https://github.com/SachinSavkare/Power-BI-Business-Insights-360/blob/main/Insight%20View.JPG)
+
+---
+
 ## 🛠️ **Information Page**
 
 ### **Key Features**
@@ -175,6 +194,77 @@ The project started with a detailed planning session:
 5. **New to Power BI?**  
 
 ![Alt text](https://github.com/SachinSavkare/Power-BI-Business-Insights-360/blob/main/Support%20Page.JPG)
+
+---
+
+## ✨ **Narrative Insights Overview**
+
+📌 Objective: Each set of insights provides structured summaries of trends, metrics, and recommendations to help stakeholders explore project contributions visually.
+
+---
+
+### **Finance View Insights**
+
+🔹 Vs Target Year:
+•	Identifies gaps in profitability and cost-to-revenue ratios.
+•	Offers actionable insights into underperforming areas.
+
+🔹 Vs Last Year:
+•	Showcases YoY trends in Net Sales, Gross Margin, and Net Profit.
+•	Highlights growth opportunities and challenges.
+
+🔗 ![Alt text](https://github.com/SachinSavkare/Power-BI-Business-Insights-360/blob/main/Finance%20View%20Insight.jpg)
+
+---
+
+### **Sales View Insights**
+
+🔹 Vs Target Year:
+•	Highlights regional performance against sales targets.
+•	Identifies areas for growth and optimization.
+
+🔹 Vs Last Year:
+•	Breaks down segment and customer performance across regions.
+•	Pinpoints top- and under-performing sales contributors.
+
+🔹 Action Recommendations:
+•	Proposes strategies for improving engagement, retention, and growth.
+
+🔗 ![Alt text](https://github.com/SachinSavkare/Power-BI-Business-Insights-360/blob/main/Sales%20View%20Insight.jpg)
+
+---
+
+### **Marketing View Insights**
+
+🔹 Vs Last Year:
+•	Customer Performance: Analyzes key customers' Forecast Accuracy % and growth.
+•	Segment Performance: Highlights metrics like Net Error % and Forecast Growth %.
+
+🔹 Vs Target Year:
+•	Revenue Contribution by Channel: Analyzes top-performing channels like Retailer and their impact.
+•	Market Share %: Emphasizes AtliQ's growth in key regions and weaker zones.
+
+🔗 ![Alt text](https://github.com/SachinSavkare/Power-BI-Business-Insights-360/blob/main/Marketing%20View%20Insight.jpg)
+
+---
+
+### **Supply Chain View Insights**
+
+🔹 Operational Efficiency:
+•	Examines logistics costs, inventory trends, and forecasting gaps.
+•	Provides actionable recommendations for process optimization.
+
+🔗 ![Alt text](https://github.com/SachinSavkare/Power-BI-Business-Insights-360/blob/main/Supply%20Chain%20View%20Insight.jpg)
+
+---
+
+### **Executive View Insights**
+
+🔹 Strategic Summaries:
+•	Summarizes high-level trends, metrics, and forecasts.
+•	Offers insights into leadership-driven decisions.
+
+🔗 ![Alt text](https://github.com/SachinSavkare/Power-BI-Business-Insights-360/blob/main/Executive%20View%20Insight.jpg)
 
 ---
 
