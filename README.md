@@ -18,6 +18,10 @@ AtliQ Hardware, a rapidly expanding global leader in computer hardware and acces
 
 ---
 
+[![Watch the Project](https://raw.githubusercontent.com/SachinSavkare/Power-BI-Business-Insights-360/main/Thumbnail.png)](https://www.youtube.com/watch?v=GVGRApaesNk)
+
+---
+
 ## 📋 **Contents**
 1. 🚀 Project Kickoff and Preparation
 2. 🛠️ Tech Stack and Skills Developed
